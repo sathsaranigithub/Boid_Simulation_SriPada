@@ -12,7 +12,8 @@ The findings demonstrate that Boid-based modeling can effectively simulate crowd
 ---
 
 ## 🌡️ Crowd Density Heatmap
-<img width="511" height="384" alt="Crowd Density Heatmap" src="https://github.com/user-attachments/assets/1dc70275-f168-4a06-b5e4-2aaeff324727" />
+
+<img width="511" height="384" alt="image" src="https://github.com/user-attachments/assets/b4b3386f-d6ae-47fe-b5f4-02b008d4d4f6" />
 
 ---
 
